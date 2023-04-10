@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=althaf-ahammed&show_icons=true&locale=en&layout=compact" alt="althaf-ahammed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=althaf-ahammed&" alt="althaf-ahammed" /></p>
+
